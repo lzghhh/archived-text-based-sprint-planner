@@ -1,0 +1,42 @@
+1
+c++ final project
+final project
+3
+1 2
+4
+todo:
+1
+task_name1
+TEST
+tasktask1
+1
+0
+2 4
+DONE
+HIGH
+2022/01/30
+2022/02/20
+2
+task_name2
+BUILD
+tasktask2
+2
+0
+4
+DONE
+MID
+2022/01/30
+2022/02/20
+doing:
+3
+task_name3
+USER_STORY
+tasktask3
+4
+1
+
+IN_PROGRESS
+MID
+2022/01/30
+2022/02/20
+done:

@@ -1,0 +1,42 @@
+2
+3700 final
+final project
+3
+1
+2 4
+todo:
+1
+task_name1
+TEST
+tasktask1
+1
+1
+
+DONE
+HIGH
+2022/01/30
+2022/02/20
+2
+task_name2
+BUILD
+tasktask2
+1
+0
+2 3
+DONE
+MID
+2022/01/30
+2022/02/20
+doing:
+done:
+3
+task_name3
+USER_STORY
+tasktask3
+1
+0
+4
+IN_PROGRESS
+MID
+2022/01/30
+2022/02/20

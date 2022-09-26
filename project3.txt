@@ -1,0 +1,53 @@
+3
+3500 final
+final project
+4
+3
+1 2 4
+todo:
+4
+TTESTLOL
+TEST
+TESTEST
+3
+0
+1
+OPEN
+HIGH
+2022/6/27
+2020/02/20
+doing:
+1
+task_name1
+TEST
+tasktask1
+3
+1
+
+DONE
+HIGH
+2022/01/30
+2022/02/20
+2
+task_name2
+BUILD
+tasktask2
+3
+0
+1 2 4
+DONE
+MID
+2022/01/30
+2022/02/20
+done:
+3
+task_name3
+USER_STORY
+tasktask3
+3
+0
+2
+IN_PROGRESS
+MID
+2022/01/30
+2022/02/20
